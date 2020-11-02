@@ -8,16 +8,6 @@ I am a cyber security enthusiast who is passionate about stuff like Pentesting, 
 - 🤝 Open for collaborations for developing Pentesting related tools.
 - 👍 Looking for opportunities to join as an remote/part time in Cyber Security related fields.
 
-<details open>
-<summary>🤝 <b>To connect with me</b></summary>
-
-<p align = "center">
- 
-
-</p>
-
-</details>
-
 ---
 
 <details open>
