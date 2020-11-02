@@ -12,8 +12,7 @@ I am a cyber security enthusiast who is passionate about stuff like Pentesting, 
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
-  
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@hightechsec)
+ 
 
 </p>
 
